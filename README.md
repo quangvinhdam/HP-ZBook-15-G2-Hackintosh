@@ -13,7 +13,7 @@
 - Ethernet: Intel(R) Ethernet Connection I217-LM
 
 # Working:
-- Intel(R) HD Graphics 4600 1536
+- Intel(R) HD Graphics 4600 1536MB
 - Restart and Shutdown
 - CPU Power Management
 - Wifi, Bluetooth, Handoff (Intel AC-7260)
